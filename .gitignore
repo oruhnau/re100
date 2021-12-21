@@ -1,0 +1,10 @@
+*.txt
+*.gdx
+*.lst
+*.lxi
+*.png
+trash/
+results/
+.idea/
+*.log
+.ipynb_checkpoints/
